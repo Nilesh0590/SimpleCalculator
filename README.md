@@ -1,2 +1,0 @@
-# SimpleCalculator
-simple calculator 
